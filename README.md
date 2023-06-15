@@ -11,3 +11,5 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 My name is Viki
 I speak in 4 languages 
 I like documentaries
+#added comment through nano
+
